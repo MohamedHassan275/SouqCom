@@ -14,13 +14,12 @@
     <string name="check_gps">يبدو أن نظام GPS الخاص بك غير مفعل ، هل تريد تفعيله ؟</string>
     <string name="dialog_continue">إستمرار</string>
     <string name="cancel">إلغاء</string>
-    <string name="sign_in" translatable="false">Sign in</string>
-    <string name="sign_up" translatable="false">Sign up</string>
     <string name="user_name" translatable="false">User Name</string>
     <string name="mobile_number" translatable="false">Mobile Number</string>
     <string name="email" translatable="false">E-Mail</string>
     <string name="password" translatable="false">password</string>
-    <string name="login_to_buy" translatable="false">Login in App </string>
+    <string name="welcome" translatable="false">Welcome </string>
+    <string name="Sign_in_sign_up" translatable="false">Sign in / sign up </string>
     <string name="forget_password" translatable="false">Forget  Password  ?</string>
     <string name="register_user" translatable="false">تسجيل بيانات العميل </string>
     <string name="buy_done" translatable="false">بيع المنتج</string>

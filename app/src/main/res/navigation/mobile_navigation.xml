@@ -7,80 +7,80 @@
 
     <fragment
         android:id="@+id/nav_home"
-        android:name="com.mohamedhassan.souqcom.Activites.MenuItemActivites.home.HomeFragment"
+        android:name="com.mohamedhassan.souqcom.Activites.MenuItemFragments.HomeFragment"
         android:label="@string/menu_home"
         tools:layout="@layout/fragment_home">
     </fragment>
 
     <fragment
         android:id="@+id/nav_deals"
-        android:name="com.mohamedhassan.souqcom.Activites.MenuItemActivites.gallery.GalleryFragment"
+        android:name="com.mohamedhassan.souqcom.Activites.MenuItemFragments.DealsFragment"
         android:label="@string/menu_deals"
         tools:layout="@layout/fragment_gallery" />
 
     <fragment
         android:id="@+id/nav_super_market"
-        android:name="com.mohamedhassan.souqcom.Activites.MenuItemActivites.slideshow.SlideshowFragment"
+        android:name="com.mohamedhassan.souqcom.Activites.MenuItemFragments.Suber_MarketFragment"
         android:label="@string/menu_super_market"
         tools:layout="@layout/fragment_slideshow" />
 
     <fragment
         android:id="@+id/nav_fashion"
-        android:name="com.mohamedhassan.souqcom.Activites.MenuItemActivites.home.HomeFragment"
+        android:name="com.mohamedhassan.souqcom.Activites.MenuItemFragments.FashionFragment"
         android:label="@string/menu_fashion"
         tools:layout="@layout/fragment_home">
     </fragment>
 
     <fragment
         android:id="@+id/nav_home_and_kitchen"
-        android:name="com.mohamedhassan.souqcom.Activites.MenuItemActivites.gallery.GalleryFragment"
+        android:name="com.mohamedhassan.souqcom.Activites.MenuItemFragments.HomeAnd_KitchenFragment"
         android:label="@string/menu_home_and_kitchen"
         tools:layout="@layout/fragment_gallery" />
 
     <fragment
         android:id="@+id/nav_mobiles_tablets"
-        android:name="com.mohamedhassan.souqcom.Activites.MenuItemActivites.slideshow.SlideshowFragment"
+        android:name="com.mohamedhassan.souqcom.Activites.MenuItemFragments.MobileAndTabletFragment"
         android:label="@string/menu_mobiles_tablets"
         tools:layout="@layout/fragment_slideshow" />
     <fragment
         android:id="@+id/nav_electronics"
-        android:name="com.mohamedhassan.souqcom.Activites.MenuItemActivites.home.HomeFragment"
+        android:name="com.mohamedhassan.souqcom.Activites.MenuItemFragments.ElectromicsFragment"
         android:label="@string/menu_electronics"
         tools:layout="@layout/fragment_home">
     </fragment>
 
     <fragment
         android:id="@+id/nav_babies"
-        android:name="com.mohamedhassan.souqcom.Activites.MenuItemActivites.gallery.GalleryFragment"
+        android:name="com.mohamedhassan.souqcom.Activites.MenuItemFragments.BabiesFragment"
         android:label="@string/menu_babies"
         tools:layout="@layout/fragment_gallery" />
 
     <fragment
         android:id="@+id/nav_toys"
-        android:name="com.mohamedhassan.souqcom.Activites.MenuItemActivites.slideshow.SlideshowFragment"
+        android:name="com.mohamedhassan.souqcom.Activites.MenuItemFragments.ToysFragment"
         android:label="@string/menu_toys"
         tools:layout="@layout/fragment_slideshow" />
     <fragment
         android:id="@+id/nav_health_beauty"
-        android:name="com.mohamedhassan.souqcom.Activites.MenuItemActivites.home.HomeFragment"
+        android:name="com.mohamedhassan.souqcom.Activites.MenuItemFragments.Health_beautyFragment"
         android:label="@string/menu_health_beauty"
         tools:layout="@layout/fragment_home">
     </fragment>
 
     <fragment
         android:id="@+id/nav_track_orders"
-        android:name="com.mohamedhassan.souqcom.Activites.MenuItemActivites.gallery.GalleryFragment"
+        android:name="com.mohamedhassan.souqcom.Activites.MenuItemFragments.Track_OrdersFragment"
         android:label="@string/menu_track_orders"
         tools:layout="@layout/fragment_gallery" />
 
     <fragment
         android:id="@+id/nav_my_account"
-        android:name="com.mohamedhassan.souqcom.Activites.MenuItemActivites.slideshow.SlideshowFragment"
+        android:name="com.mohamedhassan.souqcom.Activites.MenuItemFragments.MyAccountFragment"
         android:label="@string/menu_my_account"
         tools:layout="@layout/fragment_slideshow" />
     <fragment
         android:id="@+id/nav_my_wishlist"
-        android:name="com.mohamedhassan.souqcom.Activites.MenuItemActivites.home.HomeFragment"
+        android:name="com.mohamedhassan.souqcom.Activites.MenuItemFragments.MyWishListFragment"
         android:label="@string/menu_my_wishlist"
         tools:layout="@layout/fragment_home">
     </fragment>
