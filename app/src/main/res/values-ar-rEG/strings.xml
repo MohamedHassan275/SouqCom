@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SouqCom</string>
+
+    <string name="error_invalid_email" translatable="false">This email address is invalid</string>
+    <string name="error_invalid_password" translatable="false">This password is too short</string>
+    <string name="error_incorrect_password" translatable="false">This password is incorrect</string>
+    <string name="error_field_required" translatable="false">This field is required</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="password_and_confirm_notmatch" translatable="false">Confirm password is not password </string>
+    <string name="changelanguage" translatable="false">Change Language</string>
+    <string name="arabic" translatable="false">Arabic</string>
+    <string name="english" translatable="false">English</string>
+    <string name="yes" translatable="false">yes</string>
+    <string name="check_gps">يبدو أن نظام GPS الخاص بك غير مفعل ، هل تريد تفعيله ؟</string>
+    <string name="dialog_continue">إستمرار</string>
+    <string name="cancel">إلغاء</string>
+    <string name="sign_in" translatable="false">Sign in</string>
+    <string name="sign_up" translatable="false">Sign up</string>
+    <string name="user_name" translatable="false">User Name</string>
+    <string name="mobile_number" translatable="false">Mobile Number</string>
+    <string name="email" translatable="false">E-Mail</string>
+    <string name="password" translatable="false">password</string>
+    <string name="login_to_buy" translatable="false">Login in App </string>
+    <string name="forget_password" translatable="false">Forget  Password  ?</string>
+    <string name="register_user" translatable="false">تسجيل بيانات العميل </string>
+    <string name="buy_done" translatable="false">بيع المنتج</string>
+    <string name="title_activity_home_screen">HomeScreenActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">تسجيل الخروح</string>
+
+    <string name="menu_home">الصفحة الرئيسية</string>
+    <string name="menu_photo_product">بدء تصوير المنتج</string>
+    <string name="menu_statistics">الاحصائيات</string>
+    <string name="menu_notification">اشعاراتي</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="get_data_from_server" translatable="false">Get Data ... </string>
+    <string name="no_barcode_data">No BarCode here </string>
+    <string name="not_name">Not Name here </string>
+    <string name="not_day">Not Day here </string>
+    <string name="not_week">Not Week here </string>
+    <string name="not_month">Not Month here </string>
+    <string name="not_mobile">Not Mobile here </string>
+    <string name="menu_gallery">Gallery</string>
+
+    <string name="title_location_permission">title_location_permission</string>
+    <string name="text_location_permission">text_location_permission</string>
+    <string name="ok">ok</string>
+    <string name="title_activity_map">Map</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+</resources>
