@@ -32,10 +32,19 @@
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">تسجيل الخروح</string>
 
-    <string name="menu_home">الصفحة الرئيسية</string>
-    <string name="menu_photo_product">بدء تصوير المنتج</string>
-    <string name="menu_statistics">الاحصائيات</string>
-    <string name="menu_notification">اشعاراتي</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_deals">Deals</string>
+    <string name="menu_super_market">Super Market</string>
+    <string name="menu_fashion">Fashion</string>
+    <string name="menu_mobiles_tablets">mobiles &amp; tablets</string>
+    <string name="menu_electronics">Electronics</string>
+    <string name="menu_health_beauty">health &amp; beauty</string>
+    <string name="menu_home_and_kitchen">Home and Kitchen</string>
+    <string name="menu_babies">Babies</string>
+    <string name="menu_toys">Toys</string>
+    <string name="menu_track_orders">Track Orders</string>
+    <string name="menu_my_account">My Account</string>
+    <string name="menu_my_wishlist">My Wishlist</string>
     <string name="title_activity_maps">Map</string>
     <string name="get_data_from_server" translatable="false">Get Data ... </string>
     <string name="no_barcode_data">No BarCode here </string>

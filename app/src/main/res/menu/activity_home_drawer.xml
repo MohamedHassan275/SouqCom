@@ -9,12 +9,53 @@
             android:icon="@drawable/ic_menu_camera"
             android:title="@string/menu_home" />
         <item
-            android:id="@+id/nav_gallery"
+            android:id="@+id/nav_deals"
             android:icon="@drawable/ic_menu_gallery"
-            android:title="@string/menu_gallery" />
+            android:title="@string/menu_deals" />
         <item
-            android:id="@+id/nav_slideshow"
+            android:id="@+id/nav_super_market"
             android:icon="@drawable/ic_menu_slideshow"
-            android:title="@string/menu_slideshow" />
+            android:title="@string/menu_super_market" />
+        <item
+            android:id="@+id/nav_fashion"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_fashion" />
+        <item
+            android:id="@+id/nav_home_and_kitchen"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_home_and_kitchen" />
+        <item
+            android:id="@+id/nav_mobiles_tablets"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/menu_mobiles_tablets" />
+        <item
+            android:id="@+id/nav_electronics"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_electronics" />
+        <item
+            android:id="@+id/nav_babies"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_babies" />
+        <item
+            android:id="@+id/nav_toys"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/menu_toys" />
+        <item
+            android:id="@+id/nav_health_beauty"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_health_beauty" />
+        <item
+            android:id="@+id/nav_track_orders"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_track_orders" />
+        <item
+            android:id="@+id/nav_my_account"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_my_account" />
+        <item
+            android:id="@+id/nav_my_wishlist"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/menu_my_wishlist" />
+
     </group>
 </menu>

@@ -1,4 +1,4 @@
-package com.mohamedhassan.souqcom.Activites.ui.gallery;
+package com.mohamedhassan.souqcom.Activites.MenuItemActivites.gallery;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;

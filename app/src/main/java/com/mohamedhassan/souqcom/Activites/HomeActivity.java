@@ -7,6 +7,7 @@ import android.view.Menu;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.snackbar.Snackbar;
 import com.google.android.material.navigation.NavigationView;
+import com.mohamedhassan.souqcom.R;
 
 import androidx.navigation.NavController;
 import androidx.navigation.Navigation;
@@ -39,7 +40,9 @@ public class HomeActivity extends AppCompatActivity {
         // Passing each menu ID as a set of Ids because each
         // menu should be considered as top level destinations.
         mAppBarConfiguration = new AppBarConfiguration.Builder(
-                R.id.nav_home, R.id.nav_gallery, R.id.nav_slideshow)
+                R.id.nav_home, R.id.nav_deals, R.id.nav_super_market, R.id.nav_fashion, R.id.nav_home_and_kitchen,
+                R.id.nav_mobiles_tablets, R.id.nav_electronics, R.id.nav_babies, R.id.nav_toys, R.id.nav_health_beauty,
+                R.id.nav_track_orders, R.id.nav_my_account, R.id.nav_my_wishlist)
                 .setDrawerLayout(drawer)
                 .build();
         NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment);

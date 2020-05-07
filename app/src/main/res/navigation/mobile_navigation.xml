@@ -7,37 +7,83 @@
 
     <fragment
         android:id="@+id/nav_home"
-        android:name="com.mohamedhassan.souqcom.Activites.ui.home.HomeFragment"
+        android:name="com.mohamedhassan.souqcom.Activites.MenuItemActivites.home.HomeFragment"
         android:label="@string/menu_home"
         tools:layout="@layout/fragment_home">
-
-        <action
-            android:id="@+id/action_HomeFragment_to_HomeSecondFragment"
-            app:destination="@id/nav_home_second" />
-    </fragment>
-    <fragment
-        android:id="@+id/nav_home_second"
-        android:name="com.mohamedhassan.souqcom.Activites.ui.home.HomeSecondFragment"
-        android:label="@string/home_second"
-        tools:layout="@layout/fragment_home_second">
-        <action
-            android:id="@+id/action_HomeSecondFragment_to_HomeFragment"
-            app:destination="@id/nav_home" />
-
-        <argument
-            android:name="myArg"
-            app:argType="string" />
     </fragment>
 
     <fragment
-        android:id="@+id/nav_gallery"
-        android:name="com.mohamedhassan.souqcom.Activites.ui.gallery.GalleryFragment"
-        android:label="@string/menu_gallery"
+        android:id="@+id/nav_deals"
+        android:name="com.mohamedhassan.souqcom.Activites.MenuItemActivites.gallery.GalleryFragment"
+        android:label="@string/menu_deals"
         tools:layout="@layout/fragment_gallery" />
 
     <fragment
-        android:id="@+id/nav_slideshow"
-        android:name="com.mohamedhassan.souqcom.Activites.ui.slideshow.SlideshowFragment"
-        android:label="@string/menu_slideshow"
+        android:id="@+id/nav_super_market"
+        android:name="com.mohamedhassan.souqcom.Activites.MenuItemActivites.slideshow.SlideshowFragment"
+        android:label="@string/menu_super_market"
         tools:layout="@layout/fragment_slideshow" />
+
+    <fragment
+        android:id="@+id/nav_fashion"
+        android:name="com.mohamedhassan.souqcom.Activites.MenuItemActivites.home.HomeFragment"
+        android:label="@string/menu_fashion"
+        tools:layout="@layout/fragment_home">
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_home_and_kitchen"
+        android:name="com.mohamedhassan.souqcom.Activites.MenuItemActivites.gallery.GalleryFragment"
+        android:label="@string/menu_home_and_kitchen"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_mobiles_tablets"
+        android:name="com.mohamedhassan.souqcom.Activites.MenuItemActivites.slideshow.SlideshowFragment"
+        android:label="@string/menu_mobiles_tablets"
+        tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/nav_electronics"
+        android:name="com.mohamedhassan.souqcom.Activites.MenuItemActivites.home.HomeFragment"
+        android:label="@string/menu_electronics"
+        tools:layout="@layout/fragment_home">
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_babies"
+        android:name="com.mohamedhassan.souqcom.Activites.MenuItemActivites.gallery.GalleryFragment"
+        android:label="@string/menu_babies"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_toys"
+        android:name="com.mohamedhassan.souqcom.Activites.MenuItemActivites.slideshow.SlideshowFragment"
+        android:label="@string/menu_toys"
+        tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/nav_health_beauty"
+        android:name="com.mohamedhassan.souqcom.Activites.MenuItemActivites.home.HomeFragment"
+        android:label="@string/menu_health_beauty"
+        tools:layout="@layout/fragment_home">
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_track_orders"
+        android:name="com.mohamedhassan.souqcom.Activites.MenuItemActivites.gallery.GalleryFragment"
+        android:label="@string/menu_track_orders"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_my_account"
+        android:name="com.mohamedhassan.souqcom.Activites.MenuItemActivites.slideshow.SlideshowFragment"
+        android:label="@string/menu_my_account"
+        tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/nav_my_wishlist"
+        android:name="com.mohamedhassan.souqcom.Activites.MenuItemActivites.home.HomeFragment"
+        android:label="@string/menu_my_wishlist"
+        tools:layout="@layout/fragment_home">
+    </fragment>
+
+
 </navigation>

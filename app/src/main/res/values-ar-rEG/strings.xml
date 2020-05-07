@@ -34,9 +34,19 @@
     <string name="action_settings">تسجيل الخروح</string>
 
     <string name="menu_home">الصفحة الرئيسية</string>
-    <string name="menu_photo_product">بدء تصوير المنتج</string>
-    <string name="menu_statistics">الاحصائيات</string>
-    <string name="menu_notification">اشعاراتي</string>
+    <string name="menu_deals">بدء تصوير المنتج</string>
+    <string name="menu_super_market">الاحصائيات</string>
+    <string name="menu_fashion">اشعاراتي</string>
+    <string name="menu_mobiles_tablets">اشعاراتي</string>
+    <string name="menu_tv">اشعاراتي</string>
+    <string name="menu_electronics">اشعاراتي</string>
+    <string name="menu_health_beauty">اشعاراتي</string>
+    <string name="menu_home_and_kitchen">اشعاراتي</string>
+    <string name="menu_babies">اشعاراتي</string>
+    <string name="menu_toys">اشعاراتي</string>
+    <string name="menu_track_orders">اشعاراتي</string>
+    <string name="menu_my_account">اشعاراتي</string>
+    <string name="menu_my_wishlist">اشعاراتي</string>
     <string name="title_activity_maps">Map</string>
     <string name="get_data_from_server" translatable="false">Get Data ... </string>
     <string name="no_barcode_data">No BarCode here </string>
